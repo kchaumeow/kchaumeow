@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kchaumeow" alt="kchaumeow" /></a> </p>
 
-- 🔭 I’m currently working on [Social media "KOTIKI"](https://github.com/Make-senior-cry/KOTIKI-frontend)
+- 🔭 I’m currently working on Yandex Academy (ШРИ)
 
 - 🌱 I’m currently learning **JS, React, SQL**
 
