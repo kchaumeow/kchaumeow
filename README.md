@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kchaumeow&label=Profile%20views&color=0e75b6&style=flat" alt="kchaumeow" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kchaumeow" alt="kchaumeow" /></a> </p>
-
 - 🔭 I’m currently working on Yandex Academy (ШРИ)
 
 - 🌱 I’m currently learning **JS, React, SQL**
