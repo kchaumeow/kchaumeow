@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Alyona</h1>
 <h3 align="center">frontend developer</h3>
+
 - 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 I’m currently learning **React, Redux, Next**
