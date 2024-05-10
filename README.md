@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Alyona</h1>
 <h3 align="center">frontend developer</h3>
 
-- 🔭 I’m currently working in **Yandex Vertical Trafic Frontend**
+- 🔭 I’m currently working in **Yandex VTF**
 
 - 🌱 I’m currently learning **React, Redux, Next**
 
