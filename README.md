@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Redux, Next**
 
-- 🤝 I’m looking for help with **you**
+- 🤝 I’m looking for help with **AI**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/kchaumeow?tab=repositories)
 
