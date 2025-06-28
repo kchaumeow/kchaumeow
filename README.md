@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Alyona</h1>
 <h3 align="center">frontend developer</h3>
 
-- 🔭 I’m currently working in **MTS Digital ChatPoint**
+- 🔭 I’m currently working in **MWS Marketolog**
 
 - 🌱 I’m currently learning **React, Redux, Next**
 
