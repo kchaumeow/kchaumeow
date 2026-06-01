@@ -3,17 +3,13 @@
 
 - 🔭 I’m currently working on **My personal projects**
 
-- 🌱 I’m currently learning **React, Redux, Next**
-
-- 🤝 I’m looking for help with **AI**
+- 🌱 I’m currently learning **Golang, Docker and AI tools**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/kchaumeow?tab=repositories)
 
-- 📫 How to reach me **bugiardoelgatito@gmail.com**
+- 📫 How to reach me **atrofimova516@gmail.com**
 
 - ⚡ Fun fact **I think I`m funny**
-
-- My resume is available [here](https://tula.hh.ru/resume/a3887878ff096b62c70039ed1f6a5676625a33)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
