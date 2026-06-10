@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My personal projects**
 
-- 🌱 I’m currently learning **Golang, Docker and AI tools**
+- 🌱 I’m currently learning **Golang, Vue and Docker**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/kchaumeow?tab=repositories)
 
