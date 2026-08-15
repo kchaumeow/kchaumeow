@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **EXP**
 
-- 🌱 I’m currently learning **Golang, Vue and Docker**
+- 🌱 I’m currently learning **Java, CI/CD and Docker**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/kchaumeow?tab=repositories)
 
