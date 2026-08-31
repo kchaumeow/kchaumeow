@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, CI/CD and Docker**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/kchaumeow?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/kchaumeow?tab=repositories) and at [my personal page](https://about-me-kchaumeow.vercel.app/)
 
 - 📫 How to reach me **atrofimova516@gmail.com**
 
