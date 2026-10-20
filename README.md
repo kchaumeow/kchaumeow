@@ -1,23 +1,62 @@
-<h1 align="center">Hello, I'm Alyona</h1>
-<h3 align="center">Software Developer</h3>
+<div align="center">
 
-- 🔭 I’m currently working in **EXP Software GmbH**
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:0B2E1F,50:2D6A4F,100:74A57F&height=200&section=header&text=Hi%2C%20I%20am%20Alyona&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%"/>
 
-- 🌱 I’m currently learning **Java, CI/CD and Docker**
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=52B788&center=true&vCenter=true&width=700&lines=Software+Developer+%40+EXP+Software+GmbH;Frontend+%E2%80%A2+React+%E2%80%A2+TypeScript;Currently+learning+Java%2C+CI%2FCD+%26+Docker" alt="Typing SVG" /></a>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/kchaumeow?tab=repositories) and on [my personal page](https://about-me-kchaumeow.vercel.app/)
-
-- 📫 How to reach me **atrofimova516@gmail.com**
-
-- ⚡ Fun fact **I think I`m funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/alyona trofimova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alyona trofimova" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kchaumeow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kchaumeow" height="30" width="40" /></a>
-<a href="https://discord.gg/9540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9540" height="30" width="40" /></a>
+<p>
+  <a href="https://about-me-kchaumeow.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:atrofimova516@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-2CB67D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alyona-knyshova-1829b3299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.gg/9540" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
+---
+
+## 🧑‍💻 About me
+
+I'm a frontend developer who loves building things that look good and feel nice to use. These days I also work a lot with AI, and I especially love building MCP servers 🤖 that connect AI assistants to real tools and data. When I'm not coding, you'll find me hanging out with cats 🐈, playing video games 🎮, drawing ✏️ or watching anime 🌸. Yes, I'm a cat person, and yes, my weather app is called PurrCast.
+
+- 🔭 Working as a **Software Developer** at **EXP Software GmbH**
+- 🤖 Building with AI: I love making **MCP (Model Context Protocol) servers**
+- 🌱 Currently learning **Java, CI/CD and Docker**
+- 👩‍💻 Projects live [here on GitHub](https://github.com/kchaumeow?tab=repositories) and on [my personal page](https://about-me-kchaumeow.vercel.app/)
+- 📫 Reach me at **atrofimova516@gmail.com**
+- 🎨 Outside of code: **cats, video games, drawing and anime**
+- ⚡ Fun fact: I think I'm funny
+
+## 🚀 Featured projects
+
+<div align="center">
+  <a href="https://github.com/kchaumeow/cinema-search" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kchaumeow&repo=cinema-search&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/kchaumeow/dev-proxy" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kchaumeow&repo=dev-proxy&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/kchaumeow/PurrCast" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kchaumeow&repo=PurrCast&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12&description_lines_count=2" /></a>
+  <a href="https://github.com/kchaumeow/AnimeHub" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kchaumeow&repo=AnimeHub&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12&description_lines_count=2" /></a>
+</div>
+
+**🌍 Open source:** I contribute to [pruefstein](https://github.com/d135-1r43/pruefstein), device compliance management for ISO 27001, working on the agent CLI and the UI.
+
+<p align="center"><a href="https://about-me-kchaumeow.vercel.app/projects" target="_blank"><b>See all my projects on my portfolio →</b></a></p>
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,jest,mysql,git&theme=dark" />
+</p>
+
+<p align="center"><b>Learning now</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,docker,githubactions&theme=dark" />
+</p>
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kchaumeow&show_icons=true&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchaumeow&layout=compact&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:74A57F,50:2D6A4F,100:0B2E1F&height=100&section=footer" width="100%"/>
