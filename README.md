@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About me
 
-I'm a frontend developer who loves building things that look good and feel nice to use. These days I also work a lot with AI, and I especially love building MCP servers 🤖 that connect AI assistants to real tools and data. When I'm not coding, you'll find me hanging out with cats 🐈, playing video games 🎮, drawing ✏️ or watching anime 🌸. Yes, I'm a cat person, and yes, my weather app is called PurrCast.
+I'm a full-stack software developer who loves building things that look good and feel nice to use. These days I also work a lot with AI, and I especially love building MCP servers 🤖 that connect AI assistants to real tools and data. When I'm not coding, you'll find me hanging out with cats 🐈, playing video games 🎮, drawing ✏️ or watching anime 🌸. Yes, I'm a cat person, and yes, my weather app is called PurrCast.
 
 - 🔭 Working as a **Software Developer** at **EXP Software GmbH**
 - 🤖 Building with AI: I love making **MCP (Model Context Protocol) servers**
