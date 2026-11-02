@@ -55,8 +55,7 @@ I'm a full-stack software developer who loves building things that look good and
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kchaumeow&show_icons=true&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchaumeow&layout=compact&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12" />
+  <img src="https://streak-stats.demolab.com/?user=kchaumeow&background=00000000&border=2D6A4F&stroke=2D6A4F&ring=52B788&fire=52B788&currStreakNum=D8F3DC&sideNums=D8F3DC&currStreakLabel=95D5B2&sideLabels=95D5B2&dates=74A57F&border_radius=12" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:74A57F,50:2D6A4F,100:0B2E1F&height=100&section=footer" width="100%"/>
