@@ -29,12 +29,12 @@ I'm a full-stack software developer who loves building things that look good and
 
 ## 🚀 Featured projects
 
-<div align="center">
-  <a href="https://github.com/kchaumeow/cinema-search" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kchaumeow&repo=cinema-search&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12&description_lines_count=2" /></a>
-  <a href="https://github.com/kchaumeow/dev-proxy" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kchaumeow&repo=dev-proxy&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12&description_lines_count=2" /></a>
-  <a href="https://github.com/kchaumeow/PurrCast" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kchaumeow&repo=PurrCast&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12&description_lines_count=2" /></a>
-  <a href="https://github.com/kchaumeow/AnimeHub" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kchaumeow&repo=AnimeHub&bg_color=00000000&title_color=95D5B2&text_color=D8F3DC&icon_color=52B788&hide_border=false&border_color=2D6A4F&border_radius=12&description_lines_count=2" /></a>
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| 🎬 [cinema-search](https://github.com/kchaumeow/cinema-search) | Movie search app | TypeScript |
+| 🔌 [dev-proxy](https://github.com/kchaumeow/dev-proxy) | Universal dev proxy for testing a local frontend against a backend that doesn't accept HTTP | TypeScript |
+| 🐱 [PurrCast](https://github.com/kchaumeow/PurrCast) | Weather app that tells you what the weather is like today | JavaScript |
+| 🌸 [AnimeHub](https://github.com/kchaumeow/AnimeHub) | Make a list of your favourite anime | — |
 
 **🌍 Open source:** I contribute to [pruefstein](https://github.com/d135-1r43/pruefstein), device compliance management for ISO 27001, working on the agent CLI and the UI.
 
