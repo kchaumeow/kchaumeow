@@ -31,10 +31,10 @@ I'm a full-stack software developer who loves building things that look good and
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🎬 [cinema-search](https://github.com/kchaumeow/cinema-search) | Movie search app | TypeScript |
+| 🎬 [cinema-search](https://github.com/kchaumeow/cinema-search) | Movie search app | TypeScript, React |
 | 🔌 [dev-proxy](https://github.com/kchaumeow/dev-proxy) | Universal dev proxy for testing a local frontend against a backend that doesn't accept HTTP | TypeScript |
-| 🐱 [PurrCast](https://github.com/kchaumeow/PurrCast) | Weather app that tells you what the weather is like today | JavaScript |
-| 🌸 [AnimeHub](https://github.com/kchaumeow/AnimeHub) | Make a list of your favourite anime | — |
+| 🐱 [PurrCast](https://github.com/kchaumeow/PurrCast) | Weather app that tells you what the weather is like today | JavaScript, React |
+| 🌸 [AnimeHub](https://github.com/kchaumeow/AnimeHub) | Make a list of your favourite anime | Java, Spring Boot |
 
 **🌍 Open source:** I contribute to [pruefstein](https://github.com/d135-1r43/pruefstein), device compliance management for ISO 27001, working on the agent CLI and the UI.
 
