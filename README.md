@@ -36,7 +36,7 @@ I'm a full-stack software developer who loves building things that look good and
 | 🐱 [PurrCast](https://github.com/kchaumeow/PurrCast) | Weather app that tells you what the weather is like today | JavaScript, React |
 | 🌸 [AnimeHub](https://github.com/kchaumeow/AnimeHub) | Make a list of your favourite anime | Java, Spring Boot |
 
-**🌍 Open source:** I contribute to [pruefstein](https://github.com/d135-1r43/pruefstein), device compliance management for ISO 27001, working on the agent CLI and the UI. And also to [treasure](https://github.com/d135-1r43/Treasure), company devices management system.
+**🌍 Open source:** I contribute to [pruefstein](https://github.com/explore-de/pruefstein), device compliance management for ISO 27001, working on the agent CLI and the UI. And also to [treasure](https://github.com/explore-de/Treasure), company devices management system.
 
 <p align="center"><a href="https://about-me-kchaumeow.vercel.app/projects" target="_blank"><b>See all my projects on my portfolio →</b></a></p>
 
