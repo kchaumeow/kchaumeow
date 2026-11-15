@@ -1,14 +1,14 @@
+<p align="center">
+<img src="assets/hero.svg" width="100%" alt="Animated header, terminal session and the languages I use: TypeScript, JavaScript, HTML, CSS, SQL, Java, Bash">
+</p>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=speech&color=0:0B2E1F,50:2D6A4F,100:74A57F&height=200&section=header&text=Hi%2C%20I%20am%20Alyona&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%"/>
-
-<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=52B788&center=true&vCenter=true&width=700&lines=Software+Developer+%40+EXP+Software+GmbH;Frontend+%E2%80%A2+React+%E2%80%A2+TypeScript;Currently+learning+Java%2C+CI%2FCD+%26+Docker" alt="Typing SVG" /></a>
-
 <p>
-  <a href="https://about-me-kchaumeow.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:atrofimova516@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-2CB67D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/alyona-knyshova-1829b3299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.gg/9540" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://about-me-kchaumeow.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:atrofimova516@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-2CB67D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alyona-knyshova-1829b3299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.gg/9540" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 </div>
@@ -27,35 +27,45 @@ I'm a full-stack software developer who loves building things that look good and
 - 🎨 Outside of code: **cats, video games, drawing and anime**
 - ⚡ Fun fact: I think I'm funny
 
-## 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🎬 [cinema-search](https://github.com/kchaumeow/cinema-search) | Movie search app | TypeScript, React |
-| 🔌 [dev-proxy](https://github.com/kchaumeow/dev-proxy) | Universal dev proxy for testing a local frontend against a backend that doesn't accept HTTP | TypeScript |
-| 🐱 [PurrCast](https://github.com/kchaumeow/PurrCast) | Weather app that tells you what the weather is like today | JavaScript, React |
-| 🌸 [AnimeHub](https://github.com/kchaumeow/AnimeHub) | Make a list of your favourite anime | Java, Spring Boot |
-
-**🌍 Open source:** I contribute to [pruefstein](https://github.com/explore-de/pruefstein), device compliance management for ISO 27001, working on the agent CLI and the UI. And also to [treasure](https://github.com/explore-de/Treasure), company devices management system.
-
-<p align="center"><a href="https://about-me-kchaumeow.vercel.app/projects" target="_blank"><b>See all my projects on my portfolio →</b></a></p>
-
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,jest,mysql,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,jest,mysql,git&theme=dark" />
 </p>
 
 <p align="center"><b>Learning now</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,docker,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,docker,githubactions&theme=dark" />
 </p>
+
+<details>
+<summary><sub>FRAMEWORKS &amp; TOOLS</sub></summary>
+<img src="assets/stack.svg" width="100%" alt="Frameworks and tools. Frontend: React, TypeScript, JavaScript, Redux, HTML, CSS. Backend: Node.js, Java, Spring Boot. AI: MCP servers, LLM tooling. Data and testing: MySQL, Jest. Tools: Git, GitHub, npm, Docker, GitHub Actions, CI/CD">
+</details>
+
+<details>
+<summary><sub>PROJECTS</sub></summary>
+<img src="assets/projects.svg" width="100%" alt="Projects: cinema-search, dev-proxy, PurrCast, AnimeHub; open source: pruefstein, Treasure">
+
+<p align="center">
+🎬 <a href="https://github.com/kchaumeow/cinema-search">cinema-search</a> ·
+🔌 <a href="https://github.com/kchaumeow/dev-proxy">dev-proxy</a> ·
+🐱 <a href="https://github.com/kchaumeow/PurrCast">PurrCast</a> ·
+🌸 <a href="https://github.com/kchaumeow/AnimeHub">AnimeHub</a> ·
+🌍 <a href="https://github.com/explore-de/pruefstein">pruefstein</a> ·
+🌍 <a href="https://github.com/explore-de/Treasure">Treasure</a>
+</p>
+</details>
+
+**🌍 Open source:** I contribute to [pruefstein](https://github.com/explore-de/pruefstein), device compliance management for ISO 27001, working on the agent CLI and the UI. And also to [treasure](https://github.com/explore-de/Treasure), company devices management system.
+
+<p align="center"><a href="https://about-me-kchaumeow.vercel.app/projects" target="_blank"><b>See all my projects on my portfolio →</b></a></p>
 
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kchaumeow&background=00000000&border=2D6A4F&stroke=2D6A4F&ring=52B788&fire=52B788&currStreakNum=D8F3DC&sideNums=D8F3DC&currStreakLabel=95D5B2&sideLabels=95D5B2&dates=74A57F&border_radius=12" />
+<img src="https://streak-stats.demolab.com/?user=kchaumeow&background=00000000&border=2D6A4F&stroke=2D6A4F&ring=52B788&fire=52B788&currStreakNum=D8F3DC&sideNums=D8F3DC&currStreakLabel=95D5B2&sideLabels=95D5B2&dates=74A57F&border_radius=12" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:74A57F,50:2D6A4F,100:0B2E1F&height=100&section=footer" width="100%"/>
