@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="372" viewBox="0 0 900 372" role="img" aria-label="Frameworks and tools grouped by area; dashed chips are being learned">
+<style>text{font-family:ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace;white-space:pre}</style>
+<rect x="0.5" y="0.5" width="899" height="371" rx="12" fill="#050B08" stroke="#1E3A2C"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.00s" fill="freeze"/><rect x="12" y="12" width="876" height="58" rx="8" fill="#08130E" stroke="#1E3A2C"/><text x="24" y="31" font-size="11" fill="#52B788">~/stack/frontend</text>
+<rect x="24" y="40" width="47.0" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="31" y="54" font-size="11" fill="#D8F3DC">react</text>
+<rect x="77.0" y="40" width="80.0" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="84.0" y="54" font-size="11" fill="#D8F3DC">typescript</text>
+<rect x="163.0" y="40" width="80.0" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="170.0" y="54" font-size="11" fill="#D8F3DC">javascript</text>
+<rect x="249.0" y="40" width="47.0" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="256.0" y="54" font-size="11" fill="#D8F3DC">redux</text>
+<rect x="302.0" y="40" width="40.4" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="309.0" y="54" font-size="11" fill="#D8F3DC">html</text>
+<rect x="348.4" y="40" width="33.8" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="355.4" y="54" font-size="11" fill="#D8F3DC">css</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.12s" fill="freeze"/><rect x="12" y="78" width="876" height="58" rx="8" fill="#08130E" stroke="#1E3A2C"/><text x="24" y="97" font-size="11" fill="#52B788">~/stack/backend</text>
+<rect x="24" y="106" width="60.2" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="31" y="120" font-size="11" fill="#D8F3DC">node.js</text>
+<rect x="90.19999999999999" y="106" width="40.4" height="20" rx="4" fill="#0B2E1F" stroke-dasharray="3 3" stroke="#74A57F"/><text x="97.19999999999999" y="120" font-size="11" fill="#95D5B2">java</text>
+<rect x="136.6" y="106" width="86.6" height="20" rx="4" fill="#0B2E1F" stroke-dasharray="3 3" stroke="#74A57F"/><text x="143.6" y="120" font-size="11" fill="#95D5B2">spring-boot</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.24s" fill="freeze"/><rect x="12" y="144" width="876" height="58" rx="8" fill="#08130E" stroke="#1E3A2C"/><text x="24" y="163" font-size="11" fill="#52B788">~/stack/ai</text>
+<rect x="24" y="172" width="86.6" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="31" y="186" font-size="11" fill="#D8F3DC">mcp-servers</text>
+<rect x="116.6" y="172" width="86.6" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="123.6" y="186" font-size="11" fill="#D8F3DC">llm-tooling</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.36s" fill="freeze"/><rect x="12" y="210" width="876" height="58" rx="8" fill="#08130E" stroke="#1E3A2C"/><text x="24" y="229" font-size="11" fill="#52B788">~/stack/data-and-testing</text>
+<rect x="24" y="238" width="47.0" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="31" y="252" font-size="11" fill="#D8F3DC">mysql</text>
+<rect x="77.0" y="238" width="40.4" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="84.0" y="252" font-size="11" fill="#D8F3DC">jest</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.48s" fill="freeze"/><rect x="12" y="276" width="876" height="58" rx="8" fill="#08130E" stroke="#1E3A2C"/><text x="24" y="295" font-size="11" fill="#52B788">~/stack/tools</text>
+<rect x="24" y="304" width="33.8" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="31" y="318" font-size="11" fill="#D8F3DC">git</text>
+<rect x="63.8" y="304" width="53.6" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="70.8" y="318" font-size="11" fill="#D8F3DC">github</text>
+<rect x="123.39999999999999" y="304" width="33.8" height="20" rx="4" fill="#0B2E1F" stroke="#1E3A2C"/><text x="130.39999999999998" y="318" font-size="11" fill="#D8F3DC">npm</text>
+<rect x="163.2" y="304" width="53.6" height="20" rx="4" fill="#0B2E1F" stroke-dasharray="3 3" stroke="#74A57F"/><text x="170.2" y="318" font-size="11" fill="#95D5B2">docker</text>
+<rect x="222.79999999999998" y="304" width="106.4" height="20" rx="4" fill="#0B2E1F" stroke-dasharray="3 3" stroke="#74A57F"/><text x="229.79999999999998" y="318" font-size="11" fill="#95D5B2">github-actions</text>
+<rect x="335.2" y="304" width="47.0" height="20" rx="4" fill="#0B2E1F" stroke-dasharray="3 3" stroke="#74A57F"/><text x="342.2" y="318" font-size="11" fill="#95D5B2">ci-cd</text>
+</g>
+<text x="884" y="362" font-size="10" fill="#3F6B55" text-anchor="end">solid = daily driver  ·  dashed = currently learning</text>
+</svg>
