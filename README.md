@@ -25,6 +25,7 @@ I'm a full-stack software developer who loves building things that look good and
 - 👩‍💻 Projects live [here on GitHub](https://github.com/kchaumeow?tab=repositories) and on [my personal page](https://about-me-kchaumeow.vercel.app/)
 - 📫 Reach me at **atrofimova516@gmail.com**
 - 🎨 Outside of code: **cats, video games, drawing and anime**
+- 🗣️ Languages: **English (C1), Russian (native), German (A2)**
 - ⚡ Fun fact: I think I'm funny
 
 ## 🛠️ Tech stack
